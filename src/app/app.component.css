@@ -1,0 +1,20 @@
+.safuNav {
+    background-color: rgb(28, 37, 39)
+}
+
+.safuTealBrand {
+    color: rgb(117, 230, 192)
+}
+
+.safuGoldBrand {
+    color: rgb(230, 200, 34)
+}
+
+.safuNavLink {
+    color: white
+}
+
+a {
+
+    font-size: 18px;
+}
